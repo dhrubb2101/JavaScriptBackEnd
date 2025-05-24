@@ -66,4 +66,11 @@ where we will store
 
 /Then comes the login page
 //login doesnt take new entries it takes existing entries already stored in database and validate them
-//
+//To build a to-do application
+//in this screen we will display many to do's like I have created three-four boxes one headlined youtube , another job , another gym
+and in youtube box we create further to do's which contains box which involve
+to do's content and markedAsDone field and creation date and colors also
+
+//For main to do in youtube which gives the main heading so thhat gives us one field
+create one to-do named title field inside box and also to make it a colorful box we can add a color field for all the major todo's and also create another field which mention user who created the major todo's.
+Also add another field which mentions the subTodo's which are created inside the major todo's it will be an array which contains all the objects of subTodo's
